@@ -1,0 +1,6 @@
+elevenlabs==2.78.0
+fastapi==0.163.1
+uvicorn
+python-dotenv
+pytest
+httpx

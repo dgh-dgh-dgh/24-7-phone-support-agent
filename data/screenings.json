@@ -1,0 +1,7 @@
+[
+  {"film": "Harbor Lights", "city": "Austin", "venue": "Riverside Cinema", "starts_at": "2026-12-04T19:30", "format": "theatrical"},
+  {"film": "The Long Field", "city": "Austin", "venue": "Eastside Community Hall", "starts_at": "2026-12-06T18:00", "format": "theatrical"},
+  {"film": "Harbor Lights", "city": "Brooklyn", "venue": "Canal Street Screening Room", "starts_at": "2026-12-05T20:00", "format": "theatrical"},
+  {"film": "Salt and Iron", "city": "Chicago", "venue": "Lakeview Arts Center", "starts_at": "2026-12-10T19:00", "format": "theatrical"},
+  {"film": "The Long Field", "city": "Online", "venue": "Virtual screening", "starts_at": "2026-12-12T17:00", "format": "virtual"}
+]
