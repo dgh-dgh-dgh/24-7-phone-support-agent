@@ -3,4 +3,4 @@ fastapi==0.163.1
 uvicorn
 python-dotenv
 pytest
-httpx
+httpx2
